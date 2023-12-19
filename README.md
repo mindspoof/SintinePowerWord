@@ -1,3 +1,5 @@
 # SintinePowerWord
 # Malicious (Meterpreter) Add-in for Word
-Details: http://eyupcelik.com.tr/guvenlik/497-sintinepower-red-team-ekipleri-icin-zararli-ofis-eklentisi-gelistirme
+SintinePower is a malware I developed for Word, Excel, Powerpoint and Outlook. With this malware the meterpreter payload is installed as an add-on to office applications. This malware is not recognized as malicious by any security vendor.
+
+Details: https://eyupcelik.com.tr/sintinepower-red-team-ekipleri-icin-zararli-ofis-eklentisi-gelistirme/
